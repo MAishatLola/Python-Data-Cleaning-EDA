@@ -1,1 +1,1 @@
-# Python-Data-Cleaning-EDA
+# This project is about data cleaning and transformation to ensure quality by delving into the fascinating world of Diabetes Prediction using a Kaggle dataset. This involved techniques like handling missing values, identifying and correcting inconsistencies, and ensuring data format consistency. As well as performing an Exploratory Data Analysis to get a sense of the distribution of variables and their relationships.
