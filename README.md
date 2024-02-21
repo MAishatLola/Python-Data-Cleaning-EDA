@@ -1,4 +1,5 @@
 # Diabetes Prediction 💻
+---
 
 ## Table of Contents 📖
 - [Project Overview](#project-overview)
