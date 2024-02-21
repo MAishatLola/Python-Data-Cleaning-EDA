@@ -1,6 +1,6 @@
-# Diabetes Prediction
+# Diabetes Prediction 💻
 
-## Table of Contents
+## Table of Contents 📖
 - [Project Overview](#project-overview)
 - [About Dataset](#about-dataset)
 - [Goal of the Project](#goal-of-the-project)
@@ -18,13 +18,13 @@ This project is about data cleaning and transformation to ensure quality by delv
 
 ![Distributions by BMI Classifications](https://github.com/MAishatLola/Python-Data-Cleaning-EDA/assets/148435526/121d1d5c-eaa0-43d9-ba0b-bfff22924698)
 
-### About Dataset
+### About Dataset 
 The Diabetes Prediction Dataset contains a collection of medical and demographic features (age, BMI, hypertension, etc.) associated with patients' diabetes status (positive/negative), enabling analysis and prediction of diabetes risk.
 ### Goal of the Project
 To uncover hidden patterns and prepare the data for accurate prediction models.
 ### Data Sourcing
 A Kaggle Dataset https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
-### Tools
+### Tools 
 - Python- Data Cleaning [Download Here](https://drive.google.com/file/d/1J7L7S_bAnm8VgGm9fcQ85FSG7c6UjONo/view?usp=sharing)
 - Excel- Data Cleaning
 
@@ -77,7 +77,7 @@ Based on the Analysis conducted, these are the recommentions:
 - Insufficient provisions of data for the size and representativeness of "Other" Gender Category
 
 ### References
-BMI Categorization [See Here](https://www.cdc.gov/obesity/basics/adult-defining.html)
-Kaggle DataSet  [Link](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
+BMI Categorization ©️ [See Here](https://www.cdc.gov/obesity/basics/adult-defining.html)
+Kaggle DataSet ©️  [Link](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) 
 
 
